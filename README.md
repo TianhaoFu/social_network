@@ -1,8 +1,8 @@
 # social_network
-有关社交舆论分析挖掘的一些算法的实现与探究
+Implementation and exploration of some algorithms related to social opinion analysis and mining
 
-主要包括：
+Mainly includes.
 
-#### 1->计算网络特点（中心性的计算）
+#### 1-> Calculation of network characteristics (computation of centrality)
 
-#### 2->针对网络进行社区发现（聚类）
+#### 2-> community discovery (clustering) for the network
